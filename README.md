@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **syw2014/syw2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
