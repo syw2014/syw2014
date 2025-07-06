@@ -19,7 +19,7 @@ I'm a passionate **AI Engineer** specializing in **NLP/LLM** and **Agentic Appli
 
 ### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=openai&logoColor=white)![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=openai&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Specializations
 
