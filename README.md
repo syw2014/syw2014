@@ -27,7 +27,7 @@ I'm a passionate **AI Engineer** specializing in **NLP/LLM** and **Agentic Appli
 
 - **AIGC (AI-Generated Content)**: High-quality image generation (Stable Diffusion), advanced video synthesis (Kling), and custom voice cloning.
 
-  \- **Deep Learning**: Transformer models, neural networks, and model optimization.
+- **Deep Learning**: Transformer models, neural networks, and model optimization.
 
 - **Natural Language Processing**: Text classification, sentiment analysis, query understanding, and knowledge graphs.
 
